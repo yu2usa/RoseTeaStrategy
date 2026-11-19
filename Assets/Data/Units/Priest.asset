@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe455d6cb620a9b4e8597ff1bd25fbc9, type: 3}
+  m_Name: Priest
+  m_EditorClassIdentifier: 
+  displayName: "\u53F8\u796D"
+  maxHp: 35
+  attackDamage: 0
+  attackRange: 6
+  attackInterval: 3
+  aggroRange: 18
+  blockChance: 0
+  healAmount: 10
+  moveSpeed: 3.8
+  cost: 140
+  buildTime: 5
+  icon: {fileID: 7199682992224299089, guid: 7dbfe91e38e40364bbb93a95d9dfd389, type: 3}
+  bounty: 0

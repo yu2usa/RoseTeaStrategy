@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 747b86d07cdf2b04486d8a97c8c2057f, type: 3}
+  m_Name: Wall
+  m_EditorClassIdentifier: 
+  displayName: "\u9632\u58C1"
+  type: 0
+  cost: 15
+  prefab: {fileID: 1031632200631973001, guid: 4f6d5453be3406f40b88fb57de825e87, type: 3}
+  icon: {fileID: -2530626806279046755, guid: 269075afc443c4844acb36278462c517, type: 3}
+  attackDamage: 12
+  attackRange: 9
+  attackInterval: 0.8

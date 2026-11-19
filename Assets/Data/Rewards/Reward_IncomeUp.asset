@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5a4c9abe74395a044af496e0fcfe46c7, type: 3}
+  m_Name: Reward_IncomeUp
+  m_EditorClassIdentifier: 
+  title: "\u4EA4\u6613\u8DEF"
+  description: "\u53CE\u5165 +3 \u30B4\u30FC\u30EB\u30C9/\u79D2"
+  type: 6
+  value: 3
